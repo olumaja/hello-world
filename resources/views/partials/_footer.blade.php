@@ -1,0 +1,1 @@
+<p class="text-center">&copy;Copyright Segun - All Rights Reserved.</p>
